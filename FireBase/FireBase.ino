@@ -1,3 +1,10 @@
+#include <FirebaseCloudMessaging.h>
+#include <Firebase.h>
+#include <FirebaseHttpClient.h>
+#include <FirebaseArduino.h>
+#include <FirebaseError.h>
+#include <FirebaseObject.h>
+
 #include <ESP8266Firebase.h>
 
 #include <SoftwareSerial.h>
